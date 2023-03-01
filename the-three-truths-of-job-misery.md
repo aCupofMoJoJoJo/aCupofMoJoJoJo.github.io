@@ -139,7 +139,7 @@ So if you’re still reading this and still doubting any of this... I’ll like 
 
 As for how to get “there”, the first part (as well as the hardest) is recognizing that you as their manager have the ability to make your direct report's jobs less miserable. The second taking the steps to get to improve and learn. The second part can be easy to get discouraged but you’re not alone! Let’s connect! 
 
-Additionally, several great resources are available to managers such as picking up your copy of “The Truth About Employee Engagement” at Amazon. 
+Don't forget to pick up your copy of “The Truth About Employee Engagement” at Amazon. 
 </p>
 <br>
 

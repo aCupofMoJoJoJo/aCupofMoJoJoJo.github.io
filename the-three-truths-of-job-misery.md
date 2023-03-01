@@ -7,11 +7,14 @@ A few weeks ago I was recommended a book “The Truth About Employee Engagement�
 “The Truth About Employee Engagement” centers around the Cost of Job Misery, The 3 Factors of Job Misery (Anonymity, Irrelevance, and Immeasurement), and The Benefits of Preventing Job Misery.
 <p>
 
+<p align="center">
+ <img src="https://miro.medium.com/v2/resize:fit:424/format:webp/0*_wyxlPGEthNmH4SR.jpg">
+</p>
+
 ## The Cost of Job Misery
 <p>
 Let’s start with the cost of misery within a work environment as it has a broad ripple effect among associates and their responsibilities. I listed a few key ones below (<strong>It’s important to note</strong> that <strong>all of these</strong> usually translate to higher costs/expenses, slower growth of the company, etc.) and I think as you read the following, you’ll be able to recognize the correlation.
 </p>
-
 
 #### Toxic Culture
 <p>
@@ -41,6 +44,10 @@ Lower trust, higher burnout. <strong>A Manager doesn’t just make an impact on 
 ## The 3 Factors of Job Misery:
 <p>
 Shifting our focus to the 3 factors of Job Misery that “The Truth About Employee Engagement” identifies.
+</p>
+
+<p align="center">
+ <img src="https://miro.medium.com/max/890/1*d6bEnfelhE2IeJAsbuU77w.png" width="300">
 </p>
 
 #### Anonymity
@@ -100,12 +107,15 @@ Just as how job misery has a ripple effect, preventing job misery also has a rip
 *“Employees themselves begin to take a great interest in their colleagues, help them find meaning and relevance in their work, and find better ways to gauge their own success, and they do all of this without specific direction from their bosses.”*
 
 
-## The Next Steps
-<p>
-If you’re reading this and thinking about how “super obvious” this all sounds… well, **you’re not wrong! **
+## Reflecting
+<p align="center">
+ <img src="https://www.happierhuman.com/wp-content/uploads/2022/03/thinking-about-you-memes-winkgo-give-me-a-lot-of-thinking.jpg" width="300">
 </p>
 
-#### Reflecting
+<p>
+If you’re reading this and thinking about how “super obvious” this all sounds… well, <strong>you’re not wrong!</strong>
+</p>
+
 <p>
 I’ll like to try to answer the question which the author asks…
 </p>

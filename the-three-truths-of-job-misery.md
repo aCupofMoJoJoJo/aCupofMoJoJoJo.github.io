@@ -107,6 +107,7 @@ Just as how job misery has a ripple effect, preventing job misery also has a rip
 
 *“Employees themselves begin to take a great interest in their colleagues, help them find meaning and relevance in their work, and find better ways to gauge their own success, and they do all of this without specific direction from their bosses.”*
 <br>
+<br>
 
 ## Reflecting
 <p align="center">
@@ -140,6 +141,7 @@ As for how to get “there”, the first part (as well as the hardest) is recogn
 
 Additionally, several great resources are available to managers such as picking up your copy of “The Truth About Employee Engagement” at Amazon. 
 </p>
+<br>
 
 ## One Last Thought
 

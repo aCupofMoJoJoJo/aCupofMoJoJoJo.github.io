@@ -40,14 +40,14 @@ Loss of domain knowledge, experience, trust, more training newcomers. Onboarding
 <p>
 Lower trust, higher burnout. <strong>A Manager doesn’t just make an impact on their direct report’s work-life, they make an impact on their life period</strong>. It’s important to understand how being miserable at your job will leak over into your personal life and affect others in your household such as your spouse, children, relatives, and friends. 
 </p>
+<br>
 
 ## The 3 Factors of Job Misery:
-<p>
-Shifting our focus to the 3 factors of Job Misery that “The Truth About Employee Engagement” identifies.
-</p>
-
 <p align="center">
  <img src="https://miro.medium.com/max/890/1*d6bEnfelhE2IeJAsbuU77w.png" width="300">
+</p>
+<p>
+Shifting our focus to the 3 factors of Job Misery that “The Truth About Employee Engagement” identifies.
 </p>
 
 #### Anonymity
@@ -55,7 +55,7 @@ Shifting our focus to the 3 factors of Job Misery that “The Truth About Employ
 This is the idea that we cannot be fulfilled in our work if we’re not known. We as humans need to be understood and appreciated for our unique qualities by someone in a position of authority. 
 </p>
 
-#### *“It is immensely more difficult to decide to leave an organization or a team when you feel that others on the team know and understand you as an individual. And the person who can have the greatest influence by taking a personal interest in anyone on the job is the manager”*
+### *“It is immensely more difficult to decide to leave an organization or a team when you feel that others on the team know and understand you as an individual. And the person who can have the greatest influence by taking a personal interest in anyone on the job is the manager”*
 
 #### Irrelevance
 <p>
@@ -72,15 +72,16 @@ This doesn’t have to be an external individual that might use our application 
 This is might require some thought, as the answer isn't always obvious. A lot of times we don't realize the value and impact our work has on others, especially our coworkers. For instance, as I was reading this book and reflecting on myself and my job… I realized how my direct reports probably don’t know how much they help me. By having this discussion with them, it helped me grow closer to them by letting me express my gratitude and appreciation for the value that they bring. 
 </p>
 
-#### *“If managers cannot see beyond what their employees are doing and help them understand who they are helping and how they are making a difference, those jobs are bound to be miserable”*
+### *“If managers cannot see beyond what their employees are doing and help them understand who they are helping and how they are making a difference, those jobs are bound to be miserable”*
 
 
 #### Immeasurement
 <p>
-This is the idea that we need to be able to gauge our progress and level of contribution ourselves. We the employee need to be able to identify whether or not we’re doing a good job and making progress. **Something to note here:** This is not for a manager or person of authority to report, the employee should be monitoring this themselves. 
+This is the idea that we need to be able to gauge our progress and level of contribution ourselves. We the employee need to be able to identify whether or not we’re doing a good job and making progress. <strong>Something to note here:</strong> This is not for a manager or person of authority to report, the employee should be monitoring this themselves. 
 </p>
 
-#### *“Employees who can measure their own progress or contribution are going to develop a greater sense of personal responsibility and engagement than those who cannot.”*
+### *“Employees who can measure their own progress or contribution are going to develop a greater sense of personal responsibility and engagement than those who cannot.”*
+<br>
 
 ## The Benefits of Preventing Job Misery
 <p>
@@ -100,12 +101,12 @@ Just as how job misery has a ripple effect, preventing job misery also has a rip
 
 *“Engaged employees tend to attract other good employees to an organization, either by actively recruiting them or merely by telling friends about their enthusiasm.”*
 
-**This means lower dollars spent towards recruiting, hiring, retraining, and termination **
+<strong>This means lower dollars spent towards recruiting, hiring, retraining, and terminations</strong>
 
 #### Sustainable Cultural Differentiation
 
 *“Employees themselves begin to take a great interest in their colleagues, help them find meaning and relevance in their work, and find better ways to gauge their own success, and they do all of this without specific direction from their bosses.”*
-
+<br>
 
 ## Reflecting
 <p align="center">
@@ -120,7 +121,7 @@ If you’re reading this and thinking about how “super obvious” this all sou
 I’ll like to try to answer the question which the author asks…
 </p>
 
-#### *“Why do most managers fail to provide their people with these basics of a meaningful job?"*
+### *“Why do most managers fail to provide their people with these basics of a meaningful job?"*
 
 <p>
 <strong>In my opinion...</strong>
@@ -129,7 +130,7 @@ The <strong>short answer</strong> is that it’s “more” work for a manager.
 
 The <strong>longer answer</strong> is that getting to know your employees/direct reports takes time, energy, desire, and curiosity and requires a degree of empathy and vulnerability.
 
-I know that this sounds touchy feeling and I wouldn’t be surprised if a manager reading this would suggest just that and that it’s not their responsibility to prevent from being miserable. **I would counter** that this is an old, outdated manager mindset that has not evolved with where the job market is today and where it is going.
+I know that this sounds touchy feeling and I wouldn’t be surprised if a manager reading this would suggest just that and that it’s not their responsibility to prevent from being miserable. <strong>I would counter</strong> that this is an old, outdated manager mindset that has not evolved with where the job market is today and where it is going.
 
 Associates (largely due to the internet) have more resources than ever before and more connections than ever before. Within seconds an individual is able to read reviews and apply for other companies that are pushing forward toward a work culture that encourages preventing the 3 factors of job misery. If we as managers don’t evolve as well and shift our mindset we’ll lose. We’ll lose out on the benefits of a thriving culture which honestly translates into more money/revenue, fewer expenses, more growth, stronger dedication, etc the company.
 

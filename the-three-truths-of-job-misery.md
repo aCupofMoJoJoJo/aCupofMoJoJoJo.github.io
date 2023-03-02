@@ -8,7 +8,7 @@ A few weeks ago I was recommended a book “The Truth About Employee Engagement�
 <p>
 
 <p align="center">
- <img src="https://miro.medium.com/v2/resize:fit:424/format:webp/0*_wyxlPGEthNmH4SR.jpg">
+ <img src="https://miro.medium.com/v2/resize:fit:424/format:webp/0*_wyxlPGEthNmH4SR.jpg"></img>
 </p>
 
 <h2>The Cost of Job Misery</h2>
@@ -44,7 +44,7 @@ Lower trust, higher burnout. <strong>A Manager doesn’t just make an impact on 
 
 <h2>The 3 Factors of Job Misery</h2>
 <p align="center">
- <img src="https://miro.medium.com/max/890/1*d6bEnfelhE2IeJAsbuU77w.png" width="300">
+ <img src="https://miro.medium.com/max/890/1*d6bEnfelhE2IeJAsbuU77w.png" width="300"></img>
 </p>
 <p>
 Shifting our focus to the 3 factors of Job Misery that “The Truth About Employee Engagement” identifies.
@@ -131,7 +131,7 @@ Just as how job misery has a ripple effect, preventing job misery also has a rip
 
 <h2>Reflecting</h2>
 <p align="center">
- <img src="https://www.happierhuman.com/wp-content/uploads/2022/03/thinking-about-you-memes-winkgo-give-me-a-lot-of-thinking.jpg" width="300">
+ <img src="https://www.happierhuman.com/wp-content/uploads/2022/03/thinking-about-you-memes-winkgo-give-me-a-lot-of-thinking.jpg" width="300"></img>
 </p>
 
 <p>
